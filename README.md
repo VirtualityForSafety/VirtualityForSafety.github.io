@@ -26,10 +26,12 @@ We are an international collaborative research group on safety in Virtual and Au
 - [Guiding Smombies: Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users. In 2018 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 127-131). IEEE.](https://www.researchgate.net/publication/326305306_Guiding_Smombies_Augmenting_Peripheral_Vision_with_Low-Cost_Glasses_to_Shift_the_Attention_of_Smartphone_Users)
 - Annotation vs. Virtual Tutor: Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality (will be published soon)
 
-## License
+## Repository
+https://github.com/VirtualityForSafety
 
-[public domain](http://unlicense.org/)
+## Contact
+If you want to be a researcher
 
-### Gitpage Template
+#### Gitpage Template
 
 Forked from niklasbuschmann/contrast
