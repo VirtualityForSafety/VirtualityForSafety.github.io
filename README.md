@@ -27,7 +27,7 @@ We are an international collaborative research group on safety in Virtual and Au
 - Annotation vs. Virtual Tutor: Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality (will be published soon)
 
 ## Repository
-https://github.com/VirtualityForSafety
+[https://github.com/VirtualityForSafety](https://github.com/VirtualityForSafety)
 
 ## Contact
 If you want to have a great idea or a cup of coffee to share, send a mail to [Jinki Jung](mailto:your.jinki.jung@gmail.com)..
