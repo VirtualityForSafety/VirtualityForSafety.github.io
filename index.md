@@ -8,6 +8,6 @@ We strongly believe that VR and AR (as we call it both as virtuality) can be rea
 
 This collaboration is based on pure passion to contribute the safer world with VR and AR so that unfortunately we don't have funding.
 
-We also want to share our valuable results to public, including papers and source codes, hoping that would contribute to better safety.
+We also want to share [our valuable results to public](https://github.com/VirtualityForSafety/), including papers and source codes, hoping that would contribute to better safety.
 
 If you have an interest to join or some chat with coffee, you are very welcome! Just hit a mail to [me](mailto:your.jinki.jung@gmail.com).
