@@ -1,58 +1,31 @@
----
-title: "About"
-permalink: "/about/"
----
 
-## Installation
+## Introduction
+We are an international collaborative research group on safety in Virtual and Augmented Reality.
 
-Just fork the repo and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## Members
+ - [Jinki Jung](https://jinkijung.github.io/)
+ - [Hyeopwoo Lee](https://www.researchgate.net/profile/Hyeopwoo_Lee)
 
-## Features
+## Previous members
+  - [Jeehye Choi](https://www.researchgate.net/profile/Jeehye_Choi4)
+  - [Abhilasha Nanda](https://www.researchgate.net/profile/Abhilasha_Nanda)
+  - [Uwe Gruenefeld](https://uwe-gruenefeld.de/)
+  - [Tim Claudius Stratmann](https://uol.de/en/media-informatics/team/tim-claudius-stratmann/)
+  - [Diego Vilela Monteiro](https://www.researchgate.net/profile/Diego_Monteiro3)
+  - [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-ning-liang)
+  - [Prof. Daseong Han](http://pro.handong.edu/dshan/)
+  - [Betty Hyejin Kim](https://kr.linkedin.com/in/betty-kim/en)
+  - [Youngnoh Goh](https://kr.linkedin.com/in/youngnohgoh)
 
- - supports dark mode on macOS Mojave
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
-
-## Based on
-
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, add `index.html` and `archive.html` files (they can be empty but need to contain front matter) and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast
-
-plugins:
-  - jekyll-remote-theme
-```
+## Publications
+- [Ensuring Safety in Augmented Reality from Trade-off Between Immersion and Situation Awareness. In 2018 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 70-79). IEEE.](https://www.researchgate.net/publication/326343751_Ensuring_Safety_in_Augmented_Reality_from_Trade-off_Between_Immersion_and_Situation_Awareness)
+- [Guiding Smombies: Augmenting Peripheral Vision with Low-Cost Glasses to Shift the Attention of Smartphone Users. In 2018 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 127-131). IEEE.](https://www.researchgate.net/publication/326305306_Guiding_Smombies_Augmenting_Peripheral_Vision_with_Low-Cost_Glasses_to_Shift_the_Attention_of_Smartphone_Users)
+- Annotation vs. Virtual Tutor: Comparative Analysis on the Effectiveness of Visual Instructions in Immersive Virtual Reality (will be published soon)
 
 ## License
 
 [public domain](http://unlicense.org/)
 
-## Screenshots
+## Gitpage Template
 
-<div class="large" markdown="1">
-
-![screenshot](https://user-images.githubusercontent.com/4943215/50294425-2da5bf80-0476-11e9-8a27-8c59a7192cf6.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/50294472-3f876280-0476-11e9-8458-6a40fe735335.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/50602342-6bafd400-0eb7-11e9-8275-d0986af3061f.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/50602434-82562b00-0eb7-11e9-86f3-ac9b6f577843.png)
-
-</div>
-
+Forked from niklasbuschmann/contrast
