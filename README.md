@@ -1,3 +1,7 @@
+---
+title: "About"
+permalink: "/about/"
+---
 
 ## Introduction
 We are an international collaborative research group on safety in Virtual and Augmented Reality.
@@ -26,6 +30,6 @@ We are an international collaborative research group on safety in Virtual and Au
 
 [public domain](http://unlicense.org/)
 
-## Gitpage Template
+### Gitpage Template
 
 Forked from niklasbuschmann/contrast
