@@ -10,4 +10,4 @@ This collaboration is based on pure passion to contribute the safer world with V
 
 We also want to share our valuable results to public, including papers and source codes, hoping that would contribute to better safety.
 
-If you have an interest to join or some chat with coffee, you are very welcome! Just hit a mail to [me](your.jinki.jung@gmail.com).
+If you have an interest to join or some chat with coffee, you are very welcome! Just hit a mail to [me](mailto:your.jinki.jung@gmail.com).
