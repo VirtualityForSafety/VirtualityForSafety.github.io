@@ -30,7 +30,7 @@ We are an international collaborative research group on safety in Virtual and Au
 https://github.com/VirtualityForSafety
 
 ## Contact
-If you want to be a researcher
+If you want to have a great idea or a cup of coffee to share, send a mail to [Jinki Jung](mailto:your.jinki.jung@gmail.com)..
 
 #### Gitpage Template
 
