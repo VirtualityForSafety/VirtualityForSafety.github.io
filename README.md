@@ -15,8 +15,8 @@ We are an international collaborative research group on safety in Virtual and Au
   - [Abhilasha Nanda](https://www.researchgate.net/profile/Abhilasha_Nanda)
   - [Uwe Gruenefeld](https://uwe-gruenefeld.de/)
   - [Tim Claudius Stratmann](https://uol.de/en/media-informatics/team/tim-claudius-stratmann/)
-  - [Diego Vilela Monteiro](https://www.researchgate.net/profile/Diego_Monteiro3)
   - [Prof. Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/computer-science-and-software-engineering/staff/hai-ning-liang)
+  - [Diego Vilela Monteiro](https://www.researchgate.net/profile/Diego_Monteiro3)
   - [Prof. Daseong Han](http://pro.handong.edu/dshan/)
   - [Betty Hyejin Kim](https://kr.linkedin.com/in/betty-kim/en)
   - [Youngnoh Goh](https://kr.linkedin.com/in/youngnohgoh)
@@ -32,6 +32,7 @@ We are an international collaborative research group on safety in Virtual and Au
 ## Contact
 If you want to have a great idea or a cup of coffee to share, send a mail to [Jinki Jung](mailto:your.jinki.jung@gmail.com)..
 
-#### Gitpage Template
+
+### Gitpage Template
 
 Forked from niklasbuschmann/contrast
