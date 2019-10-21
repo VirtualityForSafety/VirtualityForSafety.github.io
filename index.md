@@ -6,8 +6,10 @@ Our research interests are quite broad, from the use of VR and AR for safety lik
 
 We strongly believe that VR and AR (as we call it both as virtuality) can be really useful tools for safety.
 
-This collaboration is based on pure passion to contribute the safer world with VR and AR so that unfortunately we don't have funding.
+Please check out our recent work below!
+
+{% include youtubePlayer.html id=MYfZyRPoJco %}
 
 We also want to share [our valuable results to public](https://github.com/VirtualityForSafety/), including papers and source codes, hoping that would contribute to better safety.
 
-If you have an interest to join or some chat with coffee, you are very welcome! Just hit a mail to [me](mailto:your.jinki.jung@gmail.com).
+If you are interest in our group, you are very welcome! Just hit a mail to [Jinki](mailto:your.jinki.jung@gmail.com).
