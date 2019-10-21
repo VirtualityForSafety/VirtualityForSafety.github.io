@@ -39,4 +39,4 @@ If you want to have a great idea or a cup of coffee to share, send a mail to [Ji
 
 ### Gitpage Template
 
-Forked from niklasbuschmann/contrast
+Forked from [niklasbuschmann/contrast](https://github.com/niklasbuschmann/contrast)
